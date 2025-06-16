@@ -6,12 +6,10 @@ Ana Rita Marega Gonçalves - 15746365
 Luiz Henrique Martins Silva - 15695612
 Pedro Henrique Marques de Carvalho Silva - 16819166
 ##Componentes Utilizados:
-
-| Quantidade       | Componente  | Descrição | Valor |
-| ---------------- |:-----------:|:---------:|       |
-| col 3 is         | right-aligne| $1600     |       |
-| col 2 is         | centered    |   $12     |       |
-| zebra stripes    | are neat    |    $1     |       |
+| Quantidade  | Componente | Especificação | Valor |
+| ------------- | ------------- | ------------- | ------------- |
+| 1  | Content Cell  |               |               |
+| Content Cell  | Content Cell  |               |               |
 
 
 
