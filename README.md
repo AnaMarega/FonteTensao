@@ -4,12 +4,13 @@ Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100m
 ## Participantes:
 * Ana Rita Marega Gonçalves - 15746365
 * Luiz Henrique Martins Silva - 15695612
+* Matias Aldrighi Mendonça - 11485044
 * Pedro Henrique Marques de Carvalho Silva - 16819166
 ## Componentes Utilizados:
 | Quantidade  | Componente | Especificação | Valor |
 | ------------- | ------------- | ------------- | ------------- |
 | 1  | Ponte retificadora  | 2W 10 2A 800V JINNAN |  R$ 3,90    |
-| 1  | Led |  5MM VM DIFUSO  |   R$ 0,5    |
+| 1  | Led |  5MM VM DIFUSO  |   R$ 0,50    |
 | 1  | Capacitor ELCO | 470uF 50V | R$ 4,40 |
 | 1  | Resistor | CR25 3K CARVÃO | R$ 0,07 |
 | 1  | Resistor | CR25 1K CARVÃO LGE | R$ 0,07 |
