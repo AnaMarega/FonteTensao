@@ -23,7 +23,11 @@ Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100m
 | 1  | ProtoBoard | BB-01 400P S/BASE TOWER++ | R$ 21,70 |
 | 4  | Jumpers |  Macho x Macho| R$ 2,80 |
 |TOTAL| | | R$ 47,93 |
-
+## Diagrama da Fonte
+## Circuito no Falstad
+## Projeto no EAGLE
+## Fotos do Projeto
+## Video do Projeto
 
 
 
