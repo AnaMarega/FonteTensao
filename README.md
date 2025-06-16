@@ -1,6 +1,6 @@
-# Fonte Tensão Ajustável :electric_plug:
+# Fonte Tensão Ajustável :electric_plug::fire:
 ## Descrição:
-Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100mA para Disciplina de "Eletrônica para Computação", ministrada pelo Doutor Simons
+Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100mA para Disciplina de "Eletrônica para Computação"
 ## Participantes:
 * Ana Rita Marega Gonçalves - 15746365
 * Luiz Henrique Martins Silva - 15695612
