@@ -25,15 +25,23 @@ Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100m
 |TOTAL| | | R$ 47,93 |
 ## Explicação dos Componentes:
 #### Ponte retificadora:
+ - Converte corrente alternada (CA) em corrente contínua pulsante (CC). Funcionando como um sistema coordenado de válvulas eletrônicas, direciona ambos os semiciclos da onda CA para a mesma polaridade na saída, eliminando ciclos negativos e permitindo conversão eficiente de energia
 #### Led:
+ - Indica visualmente o funcionamento correto do circuíto, quando acesso sinaliza estado ideal de funcionamento do projeto.
 #### Capacitor ELCO:
+ - O capacitor funciona como reservatório energético, armazenando cargas elétricas temporariamente durante os picos de tensão e liberando-as nos momentos de baixa tensão. Em circuitos retificadores, ele atua como filtro capacitivo, suavizando as variações da corrente pulsante pós-retificação por diodos, reduzindo assim a ondulação residual (ripple) e aproximando a saída de uma tensão contínua estável necessária para alimentação de componentes eletrônicos sensíveis.
 #### Resistores:
+ - Incluídos para controlar corrente em diferentes partes do circuito: um para o LED, outro para o Zener (evitando superaquecimento), dois para o Potenciômetro para ser equivalênte a 4,4K e outro resistor de 100 ohms e 5W. O último de 120 ohms foi usádo para testes
 #### Potenciômetro:
+ - O potenciômetro é utilizado para alterar a resistência elétrica em um ponto específico do circuito, permitindo o controle da voltagem. No nosso circuito, ele será responsável por tornar a tensão de saída da fonte ajustável entre 3V e 12V.
 #### Diodo Zener:
+ - O diodo Zener é um componente semicondutor projetado para operar em polarização reversa, mantendo uma tensão constante entre seus terminais (tensão Zener) quando atingida sua tensão de ruptura específica. Diferentemente dos diodos convencionais, ele utiliza o efeito de avalanche controlada para regular voltagem em circuitos, sendo essencial em aplicações como estabilização de tensão em fontes de alimentação e proteção contra sobretensões em sistemas eletrônicos sensíveis.
 #### Transistor:
+ - Utilizado em conjunto com o Zener para regular a tensão de saída, limitando-a a 12V conforme necessário.
 #### ProtoBoard:
  - A protoboard é uma placa de desenvolvimento com orifícios interconectados internamente que possibilita a montagem temporária de circuitos eletrônicos por meio da inserção direta de componentes como resistores, LEDs e jumpers, dispensando soldagem. Sua estrutura modular permite configurações experimentais rápidas e ajustes imediatos, sendo amplamente utilizada na fase preliminar de projetos eletrônicos por estudantes e entusiastas devido à sua praticidade na validação de conceitos antes da implementação definitiva.
 #### Jumpers:
+ - Existem para fazer as conexões entre os componentes da protoboard, em uma placa as ligações estariam feitas
 ## Diagrama da Fonte:
 ## Circuito no Falstad:
 Link: https://tinyurl.com/2a6x5lbq
