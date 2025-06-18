@@ -32,6 +32,7 @@ Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100m
 #### Diodo Zener:
 #### Transistor:
 #### ProtoBoard:
+ - A protoboard é uma placa de desenvolvimento com orifícios interconectados internamente que possibilita a montagem temporária de circuitos eletrônicos por meio da inserção direta de componentes como resistores, LEDs e jumpers, dispensando soldagem. Sua estrutura modular permite configurações experimentais rápidas e ajustes imediatos, sendo amplamente utilizada na fase preliminar de projetos eletrônicos por estudantes e entusiastas devido à sua praticidade na validação de conceitos antes da implementação definitiva.
 #### Jumpers:
 ## Diagrama da Fonte:
 ## Circuito no Falstad:
