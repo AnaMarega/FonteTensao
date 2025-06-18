@@ -25,6 +25,7 @@ Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100m
 |TOTAL| | | R$ 47,93 |
 ## Diagrama da Fonte
 ## Circuito no Falstad
+Link: https://tinyurl.com/2a6x5lbq
 ## Projeto no EAGLE
 ## Fotos do Projeto
 ## Video do Projeto
