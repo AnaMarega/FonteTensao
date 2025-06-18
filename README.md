@@ -25,7 +25,7 @@ Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100m
 |TOTAL| | | R$ 47,93 |
 ## Explicação dos Componentes:
 #### Ponte retificadora:
- - Converte corrente alternada (CA) em corrente contínua pulsante (CC). Funcionando como um sistema coordenado de válvulas eletrônicas, direciona ambos os semiciclos da onda CA para a mesma polaridade na saída, eliminando ciclos negativos e permitindo conversão eficiente de energia
+ > Converte corrente alternada (CA) em corrente contínua pulsante (CC). Funcionando como um sistema coordenado de válvulas eletrônicas, direciona ambos os semiciclos da onda CA para a mesma polaridade na saída, eliminando ciclos negativos e permitindo conversão eficiente de energia
 #### Led:
  - Indica visualmente o funcionamento correto do circuíto, quando acesso sinaliza estado ideal de funcionamento do projeto.
 #### Capacitor ELCO:
