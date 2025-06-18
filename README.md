@@ -1,4 +1,4 @@
-# Fonte de Tensão Ajustável :electric_plug::fire:
+# Fonte de Tensão Ajustável :moyai: :electric_plug::fire: :scissors:
 ## Descrição:
 Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100mA para Disciplina de "Eletrônica para Computação"
 ## Participantes:
