@@ -24,15 +24,15 @@ Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100m
 | 4  | Jumpers |  Macho x Macho| R$ 2,80 |
 |TOTAL| | | R$ 47,93 |
 ## Explicação dos Componentes:
-### Ponte retificadora:
-### Led:
-### Capacitor ELCO:
-### Resistores:
-### Potenciômetro:
-### Diodo Zener:
-### Transistor:
-### ProtoBoard:
-### Jumpers:
+#### Ponte retificadora:
+#### Led:
+#### Capacitor ELCO:
+#### Resistores:
+#### Potenciômetro:
+#### Diodo Zener:
+#### Transistor:
+#### ProtoBoard:
+#### Jumpers:
 ## Diagrama da Fonte:
 ## Circuito no Falstad:
 Link: https://tinyurl.com/2a6x5lbq
