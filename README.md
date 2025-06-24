@@ -43,14 +43,14 @@ Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100m
 #### Jumpers:
  > Existem para fazer as conexões entre os componentes da protoboard, em uma placa as ligações estariam feitas
 ## Circuito no Falstad:
-![image alt](https://github.com/AnaMarega/FonteTensao/blob/f436cd44fb827ac39bfd92e1c80f2b5ed529b291/imagens/Simula%C3%A7%C3%A3o%20Falstad.jpg)
+<img scr=".imagens/Simulação Falstad.jpg">
 Link: https://tinyurl.com/2a6x5lbq
 ## Projeto no EAGLE:
-![image alt](https://github.com/AnaMarega/FonteTensao/blob/2b7a66db5d745a8cc134184e56ce26674c515683/imagens/Esquem%C3%A1tico%20do%20Circuito.jpg)
-![image alt](https://github.com/AnaMarega/FonteTensao/blob/adae815034c13f89240ee65d87237884d07f4e26/imagens/PCB.jpg)
+<img scr=".imagens/Esquemático do Circuito.jpg">
+<img scr=".imagens/PCB.jpg">
 ## Fotos do Projeto
-![image alt](https://github.com/AnaMarega/FonteTensao/blob/d1f34a75e154eb9c451faf048a0355d1fe597a7a/imagens/Foto%20Projeto.jpg){:height="50%" width="50%"}
-![image alt](https://github.com/AnaMarega/FonteTensao/blob/111715b77910dfdcfde4a9064123c017a9db8c59/imagens/Foto%20Projeto2.jpg)
+<img scr=".imagens/Foto Projeto.jpg" width=100>
+<img scr=".imagens/Foto Projeto2.jpg">
 ## Video do Projeto:
 
 
