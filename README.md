@@ -55,7 +55,7 @@ Link: https://tinyurl.com/2a6x5lbq
 <img src="https://github.com/AnaMarega/FonteTensao/blob/3267df46ca72890f73f0990d11090d217702277f/imagens/Foto%20Projeto2.jpg" width="550">
 
 ## Video do Projeto:
-
+[Link para o vídeo de apresentação do projeto](https://youtu.be/0530hTVf04w)
 
 
 
