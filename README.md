@@ -49,8 +49,8 @@ Link: https://tinyurl.com/2a6x5lbq
 ![image alt](https://github.com/AnaMarega/FonteTensao/blob/2b7a66db5d745a8cc134184e56ce26674c515683/imagens/Esquem%C3%A1tico%20do%20Circuito.jpg)
 ![image alt](https://github.com/AnaMarega/FonteTensao/blob/adae815034c13f89240ee65d87237884d07f4e26/imagens/PCB.jpg)
 ## Fotos do Projeto
-![image alt](https://github.com/AnaMarega/FonteTensao/blob/d1f34a75e154eb9c451faf048a0355d1fe597a7a/imagens/Foto%20Projeto.jpg)
-![image alt](https://github.com/AnaMarega/FonteTensao/blob/111715b77910dfdcfde4a9064123c017a9db8c59/imagens/Foto%20Projeto2.jpg)
+![image alt](https://github.com/AnaMarega/FonteTensao/blob/d1f34a75e154eb9c451faf048a0355d1fe597a7a/imagens/Foto%20Projeto.jpg | width=100)
+![image alt](https://github.com/AnaMarega/FonteTensao/blob/111715b77910dfdcfde4a9064123c017a9db8c59/imagens/Foto%20Projeto2.jpg | width=100)
 ## Video do Projeto:
 
 
