@@ -46,9 +46,11 @@ Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100m
 ![image alt](https://github.com/AnaMarega/FonteTensao/blob/f436cd44fb827ac39bfd92e1c80f2b5ed529b291/imagens/Simula%C3%A7%C3%A3o%20Falstad.jpg)
 Link: https://tinyurl.com/2a6x5lbq
 ## Projeto no EAGLE:
-
-## PCB no EAGLE:
-## Fotos do Projeto:
+![image alt](https://github.com/AnaMarega/FonteTensao/blob/2b7a66db5d745a8cc134184e56ce26674c515683/imagens/Esquem%C3%A1tico%20do%20Circuito.jpg)
+![image alt]
+## Fotos do Projeto
+![image alt]]
+![image alt]
 ## Video do Projeto:
 
 
