@@ -4,7 +4,7 @@ Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100m
 ## Participantes:
 * Ana Rita Marega Gonçalves - 15746365
 * Luiz Henrique Martins Silva - 15695612 [GitHub](https://github.com/LuizUSP)
-* Matias Aldrighi Mendonça - 11485044 
+* Matias Aldrighi Mendonça - 11485044 [GitHub](https://github.com/Mitch-USP)
 * Pedro Henrique Marques de Carvalho Silva - 16819166  [GitHub](https://github.com/PEDROHMCS)
 ## Componentes Utilizados:
 | Quantidade  | Componente | Especificação | Valor |
