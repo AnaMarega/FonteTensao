@@ -43,7 +43,7 @@ Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100m
 #### Jumpers:
  > Existem para fazer as conexões entre os componentes da protoboard, em uma placa as ligações estariam feitas
 ## Circuito no Falstad:
-<img src="https://github.com/AnaMarega/FonteTensao/blob/e60e51534c6fd0b6725872949514990ca4004a86/imagens/Simula%C3%A7%C3%A3o%20Falstad.jpg" width="100">
+<img src="https://github.com/AnaMarega/FonteTensao/blob/e60e51534c6fd0b6725872949514990ca4004a86/imagens/Simula%C3%A7%C3%A3o%20Falstad.jpg" width="500">
 Link: https://tinyurl.com/2a6x5lbq
 
 ## Projeto no EAGLE:
