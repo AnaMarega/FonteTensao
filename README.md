@@ -45,12 +45,15 @@ Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100m
 ## Circuito no Falstad:
 <img src=".imagens/Simulação Falstad.jpg">
 Link: https://tinyurl.com/2a6x5lbq
+
 ## Projeto no EAGLE:
 <img src=".imagens/Esquemático do Circuito.jpg">
 <img src=".imagens/PCB.jpg">
+
 ## Fotos do Projeto
-<img src=".imagens/Foto Projeto.jpg" width=100>
+<img src=".imagens/Foto Projeto.jpg" width="100">
 <img src=".imagens/Foto Projeto2.jpg">
+
 ## Video do Projeto:
 
 
